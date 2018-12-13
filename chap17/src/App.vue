@@ -22,7 +22,6 @@
     import Result from './components/Result.vue';
     import AnotherResult from './components/AnotherResult.vue';
 
-
     export default {
         computed: {
             value: {
